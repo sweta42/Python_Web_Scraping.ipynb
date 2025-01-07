@@ -1,7 +1,7 @@
 # JustWatch Web Scrapping Project
 ## Website:
-#### JustWatch Movies Url - https://www.justwatch.com/in/movies?release_year_from=2000' <br>
-#### JustWatch Tv Shows Url - 'https://www.justwatch.com/in/tv-shows?release_year_from=2000'<br>
+JustWatch Movies Url - https://www.justwatch.com/in/movies?release_year_from=2000' <br>
+JustWatch Tv Shows Url - 'https://www.justwatch.com/in/tv-shows?release_year_from=2000'<br>
 ## Overview <br>
 This project involves scraping movie and TV show data from JustWatch, a popular platform that aggregates content from various streaming services such as Netflix, Amazon Prime, Hulu, and more. The scraping is achieved using Python, leveraging the Requests library for HTTP requests and BeautifulSoup for HTML parsing. Instead of utilizing JustWatch APIs, we extract information directly from the HTML structure of the website.
 
@@ -19,14 +19,14 @@ The analysis provides valuable insights into the available movies and TV shows a
 The final results are saved to a CSV file, providing a structured format for easy sharing, further analysis, or visualization.
 
 ## Technologies Used
-1.Python
-2.Requests library for HTTP requests
-3.BeautifulSoup for HTML parsing
-4.Pandas for data manipulation and analysis
+1.Python<br>
+2.Requests library for HTTP requests <br>
+3.BeautifulSoup for HTML parsing <br>
+4.Pandas for data manipulation and analysis <br>
 
 
 ## Usage
-1.Clone the repository to your local machine.
-2.Run the provided Python scripts to perform web scraping and data analysis.
-3.Explore the generated CSV file containing the results.
-Feel free to contribute, report issues, or suggest improvements!
+1.Clone the repository to your local machine.<br>
+2.Run the provided Python scripts to perform web scraping and data analysis. <br>
+3.Explore the generated CSV file containing the results. <br>
+Feel free to contribute, report issues, or suggest improvements! <br>
